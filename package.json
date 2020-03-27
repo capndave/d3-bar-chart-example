@@ -1,0 +1,26 @@
+{
+  "name": "d3-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/capndave/d3-bar-chart-example.git"
+  },
+  "keywords": [
+    "D3"
+  ],
+  "author": "David Thompson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/capndave/d3-bar-chart-example/issues"
+  },
+  "homepage": "https://github.com/capndave/d3-bar-chart-example#readme",
+  "dependencies": {
+    "serve": "^11.3.0"
+  }
+}
