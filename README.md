@@ -4,4 +4,4 @@ A simple example of a bar chart implemented with D3, HTML and Javascript.
 
 ## To run
 
-Type `npm start`.
+Type `npm start` and open up the browser to the indicated URL.
